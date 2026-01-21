@@ -22,3 +22,4 @@ Alias: $ValueSetFGMFlagCode =  https://fhir.nhs.uk/England/ValueSet/FGM-FlagCode
 Alias: $ValueSetProgrammeFlagCode =  https://fhir.nhs.uk/England/ValueSet/ProgrammeFlagCode
 Alias: $ValueSetFlagConditionCategory =  https://fhir.nhs.uk/England/ValueSet/FlagConditionCategory
 Alias: $ValueSetFlagConditionCode =  https://fhir.nhs.uk/England/ValueSet/FlagConditionCode
+Alias: $DCM = http://dicom.nema.org/resources/ontology/DCM
